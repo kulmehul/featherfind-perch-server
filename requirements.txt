@@ -1,0 +1,6 @@
+flask==3.0.3
+flask-cors==4.0.1
+gunicorn==22.0.0
+bioacoustics-model-zoo[perch]==0.12.3
+tensorflow>=2.20.0
+tensorflow-hub>=0.16.1
